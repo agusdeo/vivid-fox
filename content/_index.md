@@ -10,15 +10,13 @@ design:
 sections:
   - block: hero
     content:
-      title: Sewa Mobil Daerah Batam
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Sewa Mobil Mudah & Cepat di BATAM 
+      text: 🧱 Mulai Perjalanan Nyamanmu Sekarang! 🧱
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
-        icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: BOOKS  NOW
+        url: https://wa.me/6281276586334?text=I%27m%20interested%20in%20your%20car%20for%20Rents
+      
+    
       announcement:
         text: "Announcing the release of version 1."
         link:
@@ -34,7 +32,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: In_car.jpeg
           filters:
             brightness: 0.5
           size: cover
